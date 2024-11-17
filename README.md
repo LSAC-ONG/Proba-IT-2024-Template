@@ -7,7 +7,7 @@
 * Add Recipes Page
 * Recipes Page & Search
 
-### Pentru a crea un fork privat și pentru a rula workflow-ul pentru issue-uri, se vor urmă pașii de mai jos:
+### Pentru a crea un fork privat și pentru a rula workflow-ul pentru issue-uri, se vor urma pașii de mai jos:
 * Fork privat:
     * În colțul din dreapta-sus, apasă pe butonul „Use this template”, apoi pe cel de „Create a new repository” pentru a crea un fork în contul tău de GitHub.
 * Adaugă token-ul tău de GitHub la Repository Secrets:
